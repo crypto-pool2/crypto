@@ -11,3 +11,23 @@ encrypt &amp; decrypt
 ### 2：服务器部署代理，（提供矿池连接，并给内网机器发送矿池数据）
   一定用linux，无人值守
 
+
+## 程序说明
+
+### 1: PoolCryptoV2 - linux 客户端
+### 2：PoolCryptoV2.exe - windows 客户端
+### 3：PoolCryptoV2-remote-t - linux 服务端
+
+
+## 使用教程
+
+### 1：客户端， ./PoolCryptoV2 local 0.0.0.0:8080 1.1.1.1:18080 ABCDEF
+#### 1.1:  ./PoolCryptoV2 local 客户端IP端口 服务端IP端口 秘钥（每个客户端一定要和对应的服务器保持一致，否则会解密失败导致程序退出）
+
+### 2：服务端： ./PoolCryptoV2 remote 0.0.0.0:18080 ss.antpool.com:3333 ABCDEF
+#### 2.1： ./PoolCryptoV2 local 服务器IP端口 矿池地址  秘钥（每个服务端一定要和对应的客户端保持一致，否则会解密失败导致程序退出）
+
+
+## 加入tel 频道
+
+t.me/PoolCrypto2022
