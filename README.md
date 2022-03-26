@@ -28,6 +28,6 @@ encrypt &amp; decrypt
  ./PoolCryptoV2 local 服务器IP端口 矿池地址  秘钥（每个服务端一定要和对应的客户端保持一致，否则会解密失败导致程序退出）
 
 
-## 加入tel 频道
+## 加入tel 频道，如需使用请进群联系，会提供你节点，保证数据安全，保算力
 
 t.me/PoolCrypto2022
