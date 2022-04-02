@@ -39,5 +39,5 @@ t.me/PoolCrypto2022
 #### 蚂蚁ETH：./PoolCryptoV2 local 0.0.0.0:6667 104.243.31.12:3334 7GT5D4
 #### 酷币BTC：./PoolCryptoV2 local 0.0.0.0:6668 104.243.31.12:3335 JDUW82
 #### 酷币ETH：./PoolCryptoV2 local 0.0.0.0:6669 104.243.31.12:3336 JSHWU2
-#### 币印BTC：./PoolCryptoV2 local 0.0.0.0:6670 104.243.31.12:3337 JDUW82
+#### 币印BTC：./PoolCryptoV2 local 0.0.0.0:6670 104.243.31.12:3337 JDYG82
 #### 币印ETH：./PoolCryptoV2 local 0.0.0.0:6671 104.243.31.12:3338 JSHWU2
