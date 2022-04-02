@@ -21,10 +21,15 @@ encrypt &amp; decrypt
 
 ## 使用教程
 
-### 1：客户端， ./PoolCryptoV2 local 0.0.0.0:8080 1.1.1.1:18080 ABCDEF
+### 1：开启客户端， ./PoolCryptoV2 local 0.0.0.0:8080 1.1.1.1:18080 ABCDEF ， 节点请看下方
 ./PoolCryptoV2 local 客户端IP端口 服务端IP端口 秘钥（每个客户端一定要和对应的服务器保持一致，否则会解密失败导致程序退出）
 
-
+### 2： 查看内网机器IP
+#### windows：win+R ， 输入 cmd，输入ipconfig，看下ipV4地址， 确保您已经关闭windows防火墙
+#### linux：
+###### 赋予权限：chmod +x PoolCryptoV2
+###### 运行下方节点命令
+###### 需要无人值守，请进群
 
 ## 加入tel 频道，如需使用请进群联系，会提供你节点，保证数据安全，保算力
 
@@ -33,7 +38,7 @@ t.me/PoolCrypto2022
 
 
 
-## 节点列表
+## 节点列表，以及客户端命令行
 
 #### 蚂蚁BTC: ./PoolCryptoV2 local 0.0.0.0:6666 104.243.31.12:3333 YTG7T5
 #### 蚂蚁ETH：./PoolCryptoV2 local 0.0.0.0:6667 104.243.31.12:3334 7GT5D4
