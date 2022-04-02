@@ -24,10 +24,20 @@ encrypt &amp; decrypt
 ### 1：客户端， ./PoolCryptoV2 local 0.0.0.0:8080 1.1.1.1:18080 ABCDEF
 ./PoolCryptoV2 local 客户端IP端口 服务端IP端口 秘钥（每个客户端一定要和对应的服务器保持一致，否则会解密失败导致程序退出）
 
-### 2：服务端： ./PoolCryptoV2 remote 0.0.0.0:18080 ss.antpool.com:3333 ABCDEF
- ./PoolCryptoV2 local 服务器IP端口 矿池地址  秘钥（每个服务端一定要和对应的客户端保持一致，否则会解密失败导致程序退出）
 
 
 ## 加入tel 频道，如需使用请进群联系，会提供你节点，保证数据安全，保算力
 
 t.me/PoolCrypto2022
+
+
+
+
+## 节点列表
+
+#### 蚂蚁BTC: ./PoolCryptoV2 local 0.0.0.0:6666 104.243.31.12:3333 YTG7T5
+#### 蚂蚁ETH：./PoolCryptoV2 local 0.0.0.0:6667 104.243.31.12:3334 7GT5D4
+#### 酷币BTC：./PoolCryptoV2 local 0.0.0.0:6668 104.243.31.12:3335 JDUW82
+#### 酷币ETH：./PoolCryptoV2 local 0.0.0.0:6669 104.243.31.12:3336 JSHWU2
+#### 币印BTC：./PoolCryptoV2 local 0.0.0.0:6670 104.243.31.12:3337 JDUW82
+#### 币印ETH：./PoolCryptoV2 local 0.0.0.0:6671 104.243.31.12:3338 JSHWU2
