@@ -2,7 +2,16 @@
 encrypt &amp; decrypt
 
 
-保证挖矿数据的安全性
+
+
+
+## 加入tel 频道，如需使用请进群联系，会提供你节点，保证数据安全，保算力
+
+t.me/PoolCrypto2022
+
+
+
+## 保证挖矿数据的安全性
 
 ## 使用前提
 
@@ -16,7 +25,6 @@ encrypt &amp; decrypt
 
 #### 1: PoolCryptoV2 - linux 客户端
 #### 2：PoolCryptoV2.exe - windows 客户端
-#### 3：PoolCryptoV2-remote-t - linux 服务端
 
 
 ## 使用教程
@@ -31,9 +39,8 @@ encrypt &amp; decrypt
 ###### 运行下方节点命令
 ###### 需要无人值守，请进群
 
-## 加入tel 频道，如需使用请进群联系，会提供你节点，保证数据安全，保算力
 
-t.me/PoolCrypto2022
+
 
 
 
